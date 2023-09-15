@@ -1,5 +1,4 @@
 import Hero from './Hero'
-import Nav from './Nav'
 import CustomerReviews from './CustomerReviews'
 import Footer from './Footer'
 import PopularProducts from './PopularProducts'
