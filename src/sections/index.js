@@ -10,7 +10,6 @@ import SuperQuality from './SuperQuality'
 export {
     Hero, 
     PopularProducts, 
-    Nav, 
     CustomerReviews, 
     Footer, 
     Services, 

@@ -20,6 +20,7 @@ export default {
       fontFamily: {
         palanquin: ['Palanquin', 'sans-serif'],
         montserrat: ['Montserrat', 'sans-serif'],
+        dancing: ['Dancing Script']
       },
       colors: {
         'primary': "#ECEEFF",
