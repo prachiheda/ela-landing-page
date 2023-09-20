@@ -22,7 +22,7 @@ const Hero = () => {
           <br />
           <span className = "text-teal-700 inline-block mt-3">ELA </span> Jewelry
         </h1>
-        <p className = "font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm">Discover stylish ELA jewelry, directly imported from India, made with the finest materials and craftmenship.</p>
+        <p className = "font-montserrat text-slate-gray text-lg leading-8 mt-6 mb-14 sm:max-w-sm">Discover stylish ELA jewelry, imported from India, made with the finest materials and craftmenship.</p>
         <Button label = "Shop now" iconURL = {arrowRight} />
         <div className = "flex justify-start items-start flex-wrap w-full mt-20 gap-16">
           {statistics.map((stat) => (
